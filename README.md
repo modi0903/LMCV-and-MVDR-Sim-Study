@@ -72,8 +72,8 @@ This framework supports multiple simulation scenarios:
    ```bash
    cd scenarios/leo_satellite
 2. Run the corresponding script: 
-  ``bash
-  run_LEO_simulation.m;
+  ```bash
+  run_LEO_simulation.m
 3. Results are saved in the results/figures directory,
 
 ## Citation
