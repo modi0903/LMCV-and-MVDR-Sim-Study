@@ -73,14 +73,14 @@ This framework supports multiple simulation scenarios:
    cd scenarios/leo_satellite
    ```
 2. Run the corresponding script: 
-  ```bash
-  run_LEO_simulation.m
-```
+   ```bash
+   run_LEO_simulation.m
+   ```
 3. Results are saved in the results/figures directory,
 
 ## Citation
 
-### If you use this, please cite: Modi, T. (2026). LCMV and MVDR Wireless Simulation Study. GitHub repository. https://github.com/modi0903/LCMV-and-MVDR-Sim-Study
+If you use this, please cite: Modi, T. (2026). LCMV and MVDR Wireless Simulation Study. GitHub repository. https://github.com/modi0903/LCMV-and-MVDR-Sim-Study
 
-### Contact: Tanmay Modi, tanmay.p.k.modi@gmail.com
+Contact: Tanmay Modi, tanmay.p.k.modi@gmail.com
 
