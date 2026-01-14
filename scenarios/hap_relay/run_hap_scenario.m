@@ -48,7 +48,7 @@ fprintf('MVDR SINR = %.2f dB\n', 10*log10(sinr_mvdr));
 fprintf('LCMV SINR = %.2f dB\n', 10*log10(sinr_lcmv));
 
 %% Beampattern
-theta_grid = linspace(60,90,800) * pi/180;
+theta_grid = linspace(65,85,1200) * pi/180;
 
 BP_mvdr = compute_beampattern(w_mvdr, array_bs, theta_grid);
 BP_lcmv = compute_beampattern(w_lcmv, array_bs, theta_grid);
